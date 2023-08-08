@@ -8,4 +8,5 @@ var averageMarks = totalMarks / 5
 console.log(averageMarks);
 averageMarks = averageMarks.toFixed(2);
 console.log(averageMarks);
-averageMarks =parseFloat(averageMarks)
+averageMarks =parseFloat(averageMarks);
+console.log(averageMarks);
